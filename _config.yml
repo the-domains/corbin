@@ -1,0 +1,28 @@
+name: corbin
+favicon: null
+layout_spectrum: 0.21352464868687093
+typography_spectrum: 0.6917879485990852
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.09653966478072107
+  lightness: 0.03259140648879111
+  saturation: 0.3158511451911181
+  rhythmicContrast: 0.38400832284241915
+purpose: []
